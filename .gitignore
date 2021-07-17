@@ -4,3 +4,4 @@ tmp/
 /static/json/vk.json
 /media/users_avatars/23.jpg
 db.sqlite3
+/venv/
